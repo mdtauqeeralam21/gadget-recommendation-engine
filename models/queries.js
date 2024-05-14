@@ -1,5 +1,3 @@
-//Example cypher queries
-
 export const PURCHASE_QUERY = `
 MATCH (user:User {name: "Kishan"})
 MATCH (mobile:Mobiles {url: "https://gadgets.ndtv.com/samsung-galaxy-core-2-1738"})
