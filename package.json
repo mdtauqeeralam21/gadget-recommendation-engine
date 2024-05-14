@@ -1,7 +1,7 @@
 {
-  "name": "job-tracker-backend",
+  "name": "gadget-recommendation-backend",
   "version": "1.0.0",
-  "description": "A Job Tracking App",
+  "description": "A gadget recommendation backend app",
   "main": "index.js",
   "type": "module",
   "scripts": {
